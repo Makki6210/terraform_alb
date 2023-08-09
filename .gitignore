@@ -1,2 +1,4 @@
-/*
-!/img/
+.terraform*
+/key/*
+*tfstate*
+*tfvars*
